@@ -16,6 +16,7 @@ The dataset contains detailed information about gym members and their fitness ac
 - **Workout Type:** Type of workout performed (e.g., Strength, Cardio, Yoga, HIIT).
 - **Gender:** Gender of the gym member.
 - **Age Group:** Age category of the members (e.g., 18-29, 30-39, 40-49, 50+).
+- **Experience Level:** Member's experience level (beginner, intermediate, advanced).
 - **Calories Burned:** Number of calories burned during sessions.
 - **Water Intake:** Amount of water consumed during sessions.
 - **Weekly Workouts:** Number of workouts completed weekly.
